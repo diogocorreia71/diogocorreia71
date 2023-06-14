@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td align=right><b>minitalk</b></td>
-    <td><a></a></td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhiw7sf5015108kyfbt8rvwd/project/3120271" alt="diodos-s's 42 minitalk Score" /></a></td>
   </tr>
   <tr>
     <td align=right><b>Born2beRoot</b></td>
