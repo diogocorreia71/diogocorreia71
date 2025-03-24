@@ -9,7 +9,7 @@
 <br>
 
 ## 🚀 42 Projects
-Here are some of my key projects from **42 Porto**:
+
 - 🎯 **[IRC Server](https://github.com/diogocorreia71/IRCServer)** - Internet Relay Chat
 - 💡 **[CPP Modules](https://github.com/diogocorreia71/IRCServer)** - Introduction to C++
 - 🎯 **[Cub3D](https://github.com/diogocorreia71/cub3d)** - Raycaster in C
