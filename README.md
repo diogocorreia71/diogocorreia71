@@ -21,7 +21,7 @@ I'm a **software developer** currently studying at **42 Porto**, passionate abou
 ## 🚀 42 Projects
 
 - **[IRC Server](https://github.com/diogocorreia71/IRCServer)** - Multi-client IRC server in C++
-- **[CPP Modules](https://github.com/diogocorreia71/IRCServer)** - Introduction to C++
+- **[CPP Modules](https://github.com/diogocorreia71/cpp_modules)** - Introduction to C++
 - **[Cub3D](https://github.com/diogocorreia71/cub3d)** - Raycaster in C
 - **[Philosophers](https://github.com/diogocorreia71/philo)** - Multithreaded simulation
 - **[Minishell](https://github.com/diogocorreia71/minishell)** - Bash shell
