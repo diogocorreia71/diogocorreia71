@@ -39,6 +39,8 @@ I'm a **software developer** currently studying at **42 Porto**, passionate abou
 - **[Personal Website](https://github.com/diogocorreia71/my_website)** - Simple website showcasing a bit of myself
 - **[Web Scraper](https://github.com/diogocorreia71/my_website)** - Automated daily used car listings
 
+<br>
+
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogocorreia71/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo_correia7@hotmail.com)
