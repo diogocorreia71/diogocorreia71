@@ -37,7 +37,7 @@ I'm a **software developer** currently studying at **42 Porto**, passionate abou
 ## 🌟 Personal Projects
 
 - **[Personal Website](https://github.com/diogocorreia71/my_website)** - Simple website showcasing a bit of myself
-- **[Web Scraper](https://github.com/diogocorreia71/my_website)** - Automated daily used car listings
+- **[Web Scraper](https://github.com/diogocorreia71/web-scraper)** - Automated daily used car listings
 
 <br>
 
