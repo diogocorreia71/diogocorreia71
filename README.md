@@ -20,6 +20,7 @@ I'm a **software developer** currently studying at **42 Porto**, passionate abou
 
 ## 🚀 42 Projects
 
+- **[Inception](https://github.com/diogocorreia71/Inception)** - Docker-based infrastructure setup
 - **[IRC Server](https://github.com/diogocorreia71/IRCServer)** - Multi-client IRC server in C++
 - **[CPP Modules](https://github.com/diogocorreia71/cpp_modules)** - Introduction to C++
 - **[Cub3D](https://github.com/diogocorreia71/cub3d)** - Raycaster in C
